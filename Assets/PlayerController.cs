@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float CoyoteTime;
     [SerializeField] float CoyoteTimeCounter;
     public bool IsFacingRight;
+    public bool baller;
 
 
     private CameraFollowScript Camera;
